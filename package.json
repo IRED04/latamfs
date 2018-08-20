@@ -1,0 +1,23 @@
+{
+  "name": "latamfs",
+  "version": "1.0.0",
+  "description": "This demo app demonstrates the use of unit testing using [Jest](https://jestjs.io) & [Travis CI](https://travis-ci.org/) for make CI using a TDD approach 🙂",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artmadeit/latamfs.git"
+  },
+  "author": "artmadeit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artmadeit/latamfs/issues"
+  },
+  "homepage": "https://github.com/artmadeit/latamfs#readme"
+}
